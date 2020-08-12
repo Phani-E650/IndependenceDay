@@ -1,0 +1,45 @@
+body {
+	background: #000;
+	margin: 0;
+}
+
+/* Fit the canvas to the page width. */
+canvas {
+	display: block;
+}
+.img1{
+	float: right;
+}
+.img2{
+	float:left;
+}
+h1{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 2px 2px 5px #f56042;
+	font-size: 70px;
+	text-decoration: underline;
+	position: relative;
+	bottom: 10px;
+
+}
+h2{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 2px 2px 5px white;
+	font-size: 70px;
+	text-decoration: underline;
+	position: relative;
+	bottom: 10px;
+
+}
+h3{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	text-shadow: 2px 2px 5px green;
+	font-size: 70px;
+	text-decoration: underline;
+	position: relative;
+	bottom: 10px;
+
+}
